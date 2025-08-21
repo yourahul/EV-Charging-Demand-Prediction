@@ -1,4 +1,4 @@
-#🔌 EV Vehicle Charging Demand Prediction
+##🔌 EV Vehicle Charging Demand Prediction
 
 This repository contains the end-to-end machine learning project developed as part of my internship at Shell India x AICTE x Edunet Foundation.
 The objective is to forecast electric vehicle (EV) adoption trends across counties in Washington State using historical registration data.
