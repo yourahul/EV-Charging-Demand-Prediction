@@ -22,7 +22,7 @@ The objective is to forecast electric vehicle (EV) adoption trends across counti
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
 - **Model**: RandomForestRegressor  
 - **App Framework**: Streamlit  
-- **IDE**: Goggle collab + VS Code  
+- **IDE**: VS Code  
 - **Version Control**: Git + GitHub  
 
 ---
